@@ -8,7 +8,7 @@ You will find an example of using this code in script **'example.m'**.
 
 Please cite this paper when using this code for your research.
 
-Tong Wei, Yu-Feng Li. Learning compact model for large-scale multi-label data. The 33rd AAAI Conference on Artificial Intelligence, 2019 (AAAI’19).
+Tong Wei, Yu-Feng Li. Learning compact model for large-scale multi-label data. The 33rd AAAI Conference on Artificial Intelligence, Honolulu, HI, 2019 (AAAI’19).
 
 Dependencies:
 1. liblinear
